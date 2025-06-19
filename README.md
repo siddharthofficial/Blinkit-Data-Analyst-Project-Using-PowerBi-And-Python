@@ -40,7 +40,7 @@ The Power BI report provides a quick and interactive overview of key business me
 - Detailed KPI Table: Outlet-wise metrics (total sales, ratings, item count)
 
 🖼️ *Sample Dashboard Screenshot:*  
-![Blinkit Power BI Dashboard](738d8a65-98bb-48ca-b3ba-1325a5e45415.png)
+![Blinkit Power BI Dashboard](blinkit_ss.png)
 
 ---
 
